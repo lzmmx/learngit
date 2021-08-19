@@ -1,11 +1,2 @@
-Git is a version control system.
-git is free software.
-
-
-lzmmx
-
-
-
-
-
-
+Git is a distributed version control system.
+git is free distributed software.
